@@ -1,0 +1,327 @@
+
+
+Warning: in_array() expects parameter 2 to be array, null given in /home/ksharshe/a4/Server.php on line 225
+
+Warning: socket_write(): unable to write to socket [32]: Broken pipe in /home/ksharshe/a4/webserver.php on line 100
+
+Warning: filemtime(): stat failed for /home/ksharshe/a4/htdocs/a4-test/style/css/manual.css in /home/ksharshe/a4/Server.php on line 91
+
+Warning: opendir(/home/ksharshe/a4/htdocs/a4-test/style/css): failed to open dir: No such file or directory in /home/ksharshe/a4/Server.php on line 505
+
+Warning: readdir() expects parameter 1 to be resource, boolean given in /home/ksharshe/a4/Server.php on line 507
+
+Warning: stat(): stat failed for /home/ksharshe/a4/htdocs/a4-test/style/css in /home/ksharshe/a4/Server.php on line 1492
+
+Warning: stat(): stat failed for /home/ksharshe/a4/htdocs/a4-test/style/css/ in /home/ksharshe/a4/Server.php on line 1494
+
+Warning: filesize(): stat failed for /home/ksharshe/a4/htdocs/a4-test/style/css/manual.css in /home/ksharshe/a4/Server.php on line 1671
+
+Warning: file_get_contents(/home/ksharshe/a4/htdocs/a4-test/style/css/manual.css): failed to open stream: No such file or directory in /home/ksharshe/a4/Server.php on line 1676
+
+Warning: filemtime(): stat failed for /home/ksharshe/a4/htdocs/a4-test/style/css/manual-loose-100pc.css in /home/ksharshe/a4/Server.php on line 91
+
+Warning: opendir(/home/ksharshe/a4/htdocs/a4-test/style/css): failed to open dir: No such file or directory in /home/ksharshe/a4/Server.php on line 505
+
+Warning: readdir() expects parameter 1 to be resource, boolean given in /home/ksharshe/a4/Server.php on line 507
+
+Warning: stat(): stat failed for /home/ksharshe/a4/htdocs/a4-test/style/css in /home/ksharshe/a4/Server.php on line 1492
+
+Warning: stat(): stat failed for /home/ksharshe/a4/htdocs/a4-test/style/css/ in /home/ksharshe/a4/Server.php on line 1494
+
+Warning: filesize(): stat failed for /home/ksharshe/a4/htdocs/a4-test/style/css/manual-loose-100pc.css in /home/ksharshe/a4/Server.php on line 1671
+
+Warning: file_get_contents(/home/ksharshe/a4/htdocs/a4-test/style/css/manual-loose-100pc.css): failed to open stream: No such file or directory in /home/ksharshe/a4/Server.php on line 1676
+
+Warning: filemtime(): stat failed for /home/ksharshe/a4/htdocs/a4-test/style/css/manual-print.css in /home/ksharshe/a4/Server.php on line 91
+
+Warning: opendir(/home/ksharshe/a4/htdocs/a4-test/style/css): failed to open dir: No such file or directory in /home/ksharshe/a4/Server.php on line 505
+
+Warning: readdir() expects parameter 1 to be resource, boolean given in /home/ksharshe/a4/Server.php on line 507
+
+Warning: stat(): stat failed for /home/ksharshe/a4/htdocs/a4-test/style/css in /home/ksharshe/a4/Server.php on line 1492
+
+Warning: stat(): stat failed for /home/ksharshe/a4/htdocs/a4-test/style/css/ in /home/ksharshe/a4/Server.php on line 1494
+
+Warning: filesize(): stat failed for /home/ksharshe/a4/htdocs/a4-test/style/css/manual-print.css in /home/ksharshe/a4/Server.php on line 1671
+
+Warning: file_get_contents(/home/ksharshe/a4/htdocs/a4-test/style/css/manual-print.css): failed to open stream: No such file or directory in /home/ksharshe/a4/Server.php on line 1676
+
+Warning: filemtime(): stat failed for /home/ksharshe/a4/htdocs/a4-test/images/favicon.ico in /home/ksharshe/a4/Server.php on line 91
+
+Warning: opendir(/home/ksharshe/a4/htdocs/a4-test/images): failed to open dir: No such file or directory in /home/ksharshe/a4/Server.php on line 505
+
+Warning: readdir() expects parameter 1 to be resource, boolean given in /home/ksharshe/a4/Server.php on line 507
+
+Warning: stat(): stat failed for /home/ksharshe/a4/htdocs/a4-test/images in /home/ksharshe/a4/Server.php on line 1492
+
+Warning: stat(): stat failed for /home/ksharshe/a4/htdocs/a4-test/images/ in /home/ksharshe/a4/Server.php on line 1494
+
+Warning: filesize(): stat failed for /home/ksharshe/a4/htdocs/a4-test/images/favicon.ico in /home/ksharshe/a4/Server.php on line 1671
+
+Warning: file_get_contents(/home/ksharshe/a4/htdocs/a4-test/images/favicon.ico): failed to open stream: No such file or directory in /home/ksharshe/a4/Server.php on line 1676
+
+Warning: filemtime(): stat failed for /home/ksharshe/a4/htdocs/a4-test/style/css/manual.css in /home/ksharshe/a4/Server.php on line 91
+
+Warning: opendir(/home/ksharshe/a4/htdocs/a4-test/style/css): failed to open dir: No such file or directory in /home/ksharshe/a4/Server.php on line 505
+
+Warning: readdir() expects parameter 1 to be resource, boolean given in /home/ksharshe/a4/Server.php on line 507
+
+Warning: stat(): stat failed for /home/ksharshe/a4/htdocs/a4-test/style/css in /home/ksharshe/a4/Server.php on line 1492
+
+Warning: stat(): stat failed for /home/ksharshe/a4/htdocs/a4-test/style/css/ in /home/ksharshe/a4/Server.php on line 1494
+
+Warning: filesize(): stat failed for /home/ksharshe/a4/htdocs/a4-test/style/css/manual.css in /home/ksharshe/a4/Server.php on line 1671
+
+Warning: file_get_contents(/home/ksharshe/a4/htdocs/a4-test/style/css/manual.css): failed to open stream: No such file or directory in /home/ksharshe/a4/Server.php on line 1676
+
+Warning: filemtime(): stat failed for /home/ksharshe/a4/htdocs/a4-test/images/feather.gif in /home/ksharshe/a4/Server.php on line 91
+
+Warning: opendir(/home/ksharshe/a4/htdocs/a4-test/images): failed to open dir: No such file or directory in /home/ksharshe/a4/Server.php on line 505
+
+Warning: readdir() expects parameter 1 to be resource, boolean given in /home/ksharshe/a4/Server.php on line 507
+
+Warning: stat(): stat failed for /home/ksharshe/a4/htdocs/a4-test/images in /home/ksharshe/a4/Server.php on line 1492
+
+Warning: stat(): stat failed for /home/ksharshe/a4/htdocs/a4-test/images/ in /home/ksharshe/a4/Server.php on line 1494
+
+Warning: filesize(): stat failed for /home/ksharshe/a4/htdocs/a4-test/images/feather.gif in /home/ksharshe/a4/Server.php on line 1671
+
+Warning: file_get_contents(/home/ksharshe/a4/htdocs/a4-test/images/feather.gif): failed to open stream: No such file or directory in /home/ksharshe/a4/Server.php on line 1676
+
+Warning: filemtime(): stat failed for /home/ksharshe/a4/htdocs/a4-test/images/left.gif in /home/ksharshe/a4/Server.php on line 91
+
+Warning: opendir(/home/ksharshe/a4/htdocs/a4-test/images): failed to open dir: No such file or directory in /home/ksharshe/a4/Server.php on line 505
+
+Warning: readdir() expects parameter 1 to be resource, boolean given in /home/ksharshe/a4/Server.php on line 507
+
+Warning: stat(): stat failed for /home/ksharshe/a4/htdocs/a4-test/images in /home/ksharshe/a4/Server.php on line 1492
+
+Warning: stat(): stat failed for /home/ksharshe/a4/htdocs/a4-test/images/ in /home/ksharshe/a4/Server.php on line 1494
+
+Warning: filesize(): stat failed for /home/ksharshe/a4/htdocs/a4-test/images/left.gif in /home/ksharshe/a4/Server.php on line 1671
+
+Warning: file_get_contents(/home/ksharshe/a4/htdocs/a4-test/images/left.gif): failed to open stream: No such file or directory in /home/ksharshe/a4/Server.php on line 1676
+
+Warning: filemtime(): stat failed for /home/ksharshe/a4/htdocs/a4-test/style/css/manual-loose-100pc.css in /home/ksharshe/a4/Server.php on line 91
+
+Warning: opendir(/home/ksharshe/a4/htdocs/a4-test/style/css): failed to open dir: No such file or directory in /home/ksharshe/a4/Server.php on line 505
+
+Warning: readdir() expects parameter 1 to be resource, boolean given in /home/ksharshe/a4/Server.php on line 507
+
+Warning: stat(): stat failed for /home/ksharshe/a4/htdocs/a4-test/style/css in /home/ksharshe/a4/Server.php on line 1492
+
+Warning: stat(): stat failed for /home/ksharshe/a4/htdocs/a4-test/style/css/ in /home/ksharshe/a4/Server.php on line 1494
+
+Warning: filesize(): stat failed for /home/ksharshe/a4/htdocs/a4-test/style/css/manual-loose-100pc.css in /home/ksharshe/a4/Server.php on line 1671
+
+Warning: file_get_contents(/home/ksharshe/a4/htdocs/a4-test/style/css/manual-loose-100pc.css): failed to open stream: No such file or directory in /home/ksharshe/a4/Server.php on line 1676
+
+Warning: filemtime(): stat failed for /home/ksharshe/a4/htdocs/a4-test/style/css/manual-print.css in /home/ksharshe/a4/Server.php on line 91
+
+Warning: opendir(/home/ksharshe/a4/htdocs/a4-test/style/css): failed to open dir: No such file or directory in /home/ksharshe/a4/Server.php on line 505
+
+Warning: readdir() expects parameter 1 to be resource, boolean given in /home/ksharshe/a4/Server.php on line 507
+
+Warning: stat(): stat failed for /home/ksharshe/a4/htdocs/a4-test/style/css in /home/ksharshe/a4/Server.php on line 1492
+
+Warning: stat(): stat failed for /home/ksharshe/a4/htdocs/a4-test/style/css/ in /home/ksharshe/a4/Server.php on line 1494
+
+Warning: filesize(): stat failed for /home/ksharshe/a4/htdocs/a4-test/style/css/manual-print.css in /home/ksharshe/a4/Server.php on line 1671
+
+Warning: file_get_contents(/home/ksharshe/a4/htdocs/a4-test/style/css/manual-print.css): failed to open stream: No such file or directory in /home/ksharshe/a4/Server.php on line 1676
+
+Warning: filemtime(): stat failed for /home/ksharshe/a4/htdocs/a4-test/images/favicon.ico in /home/ksharshe/a4/Server.php on line 91
+
+Warning: opendir(/home/ksharshe/a4/htdocs/a4-test/images): failed to open dir: No such file or directory in /home/ksharshe/a4/Server.php on line 505
+
+Warning: readdir() expects parameter 1 to be resource, boolean given in /home/ksharshe/a4/Server.php on line 507
+
+Warning: stat(): stat failed for /home/ksharshe/a4/htdocs/a4-test/images in /home/ksharshe/a4/Server.php on line 1492
+
+Warning: stat(): stat failed for /home/ksharshe/a4/htdocs/a4-test/images/ in /home/ksharshe/a4/Server.php on line 1494
+
+Warning: filesize(): stat failed for /home/ksharshe/a4/htdocs/a4-test/images/favicon.ico in /home/ksharshe/a4/Server.php on line 1671
+
+Warning: file_get_contents(/home/ksharshe/a4/htdocs/a4-test/images/favicon.ico): failed to open stream: No such file or directory in /home/ksharshe/a4/Server.php on line 1676
+
+Warning: filemtime(): stat failed for /home/ksharshe/a4/htdocs/favicon.ico in /home/ksharshe/a4/Server.php on line 91
+
+Warning: filesize(): stat failed for /home/ksharshe/a4/htdocs/favicon.ico in /home/ksharshe/a4/Server.php on line 1671
+
+Warning: file_get_contents(/home/ksharshe/a4/htdocs/favicon.ico): failed to open stream: No such file or directory in /home/ksharshe/a4/Server.php on line 1676
+
+Warning: socket_read(): unable to read from socket [104]: Connection reset by peer in /home/ksharshe/a4/webserver.php on line 55
+
+Warning: socket_write(): unable to write to socket [32]: Broken pipe in /home/ksharshe/a4/webserver.php on line 100
+
+Warning: filemtime(): stat failed for /home/ksharshe/a4/htdocs/a1-test/2/0.jpeg.JPEG in /home/ksharshe/a4/Server.php on line 91
+
+Warning: filesize(): stat failed for /home/ksharshe/a4/htdocs/a1-test/2/0.jpeg.JPEG in /home/ksharshe/a4/Server.php on line 1671
+
+Warning: file_get_contents(/home/ksharshe/a4/htdocs/a1-test/2/0.jpeg.JPEG): failed to open stream: No such file or directory in /home/ksharshe/a4/Server.php on line 1676
+
+Warning: filemtime(): stat failed for /home/ksharshe/a4/htdocs/a1-test//a1-test/2/index.html in /home/ksharshe/a4/Server.php on line 91
+
+Warning: opendir(/home/ksharshe/a4/htdocs/a1-test//a1-test/2): failed to open dir: No such file or directory in /home/ksharshe/a4/Server.php on line 505
+
+Warning: readdir() expects parameter 1 to be resource, boolean given in /home/ksharshe/a4/Server.php on line 507
+
+Warning: stat(): stat failed for /home/ksharshe/a4/htdocs/a1-test//a1-test/2 in /home/ksharshe/a4/Server.php on line 1492
+
+Warning: stat(): stat failed for /home/ksharshe/a4/htdocs/a1-test//a1-test/2/ in /home/ksharshe/a4/Server.php on line 1494
+
+Warning: filesize(): stat failed for /home/ksharshe/a4/htdocs/a1-test//a1-test/2/index.html in /home/ksharshe/a4/Server.php on line 1671
+
+Warning: file_get_contents(/home/ksharshe/a4/htdocs/a1-test//a1-test/2/index.html): failed to open stream: No such file or directory in /home/ksharshe/a4/Server.php on line 1676
+
+Warning: filemtime(): stat failed for /home/ksharshe/a4/htdocs/a2-test/1/1.2/go hokies!.html in /home/ksharshe/a4/Server.php on line 91
+
+Warning: filesize(): stat failed for /home/ksharshe/a4/htdocs/a2-test/1/1.2/go hokies!.html in /home/ksharshe/a4/Server.php on line 1723
+
+Warning: filemtime(): stat failed for /home/ksharshe/a4/htdocs/a2-test/1/1.2/assignment1.ppt in /home/ksharshe/a4/Server.php on line 91
+
+Warning: filesize(): stat failed for /home/ksharshe/a4/htdocs/a2-test/1/1.2/assignment1.ppt in /home/ksharshe/a4/Server.php on line 1723
+
+Warning: Invalid argument supplied for foreach() in /home/ksharshe/a4/Server.php on line 1191
+
+Warning: filemtime(): stat failed for /home/ksharshe/a4/htdocs* in /home/ksharshe/a4/Server.php on line 91
+
+Warning: filemtime(): stat failed for /home/ksharshe/a4/htdocs/a3-test/index.htmll in /home/ksharshe/a4/Server.php on line 91
+
+Warning: filesize(): stat failed for /home/ksharshe/a4/htdocs/a3-test/index.htmll in /home/ksharshe/a4/Server.php on line 1671
+
+Warning: file_get_contents(/home/ksharshe/a4/htdocs/a3-test/index.htmll): failed to open stream: No such file or directory in /home/ksharshe/a4/Server.php on line 1676
+
+Warning: filemtime(): stat failed for /home/ksharshe/a4/htdocs/a3-test/index.html.ko.euc-kr in /home/ksharshe/a4/Server.php on line 91
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 693
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 693
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 693
+
+Warning: filesize(): stat failed for /home/ksharshe/a4/htdocs/a3-test/index.html.ko.euc-kr in /home/ksharshe/a4/Server.php on line 1723
+
+Warning: filemtime(): stat failed for /home/ksharshe/a4/htdocs/a3-test/fairlane in /home/ksharshe/a4/Server.php on line 91
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 693
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 706
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 719
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 693
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 706
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 719
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 693
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 706
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 719
+
+Warning: filesize(): stat failed for /home/ksharshe/a4/htdocs/a3-test/fairlane in /home/ksharshe/a4/Server.php on line 1671
+
+Warning: file_get_contents(/home/ksharshe/a4/htdocs/a3-test/fairlane): failed to open stream: No such file or directory in /home/ksharshe/a4/Server.php on line 1676
+
+Warning: filemtime(): stat failed for /home/ksharshe/a4/htdocs/a3-test/fairlane in /home/ksharshe/a4/Server.php on line 91
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 693
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 706
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 719
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 693
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 706
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 719
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 693
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 706
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 719
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 693
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 706
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 719
+
+Warning: filemtime(): stat failed for /home/ksharshe/a4/htdocs/a3-test/fairlane in /home/ksharshe/a4/Server.php on line 91
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 693
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 706
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 719
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 693
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 706
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 719
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 693
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 706
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 719
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 693
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 706
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 719
+
+Warning: filemtime(): stat failed for /home/ksharshe/a4/htdocs/a3-test/vt-uva.html in /home/ksharshe/a4/Server.php on line 91
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 706
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 719
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 706
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 719
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 706
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 719
+
+Warning: filesize(): stat failed for /home/ksharshe/a4/htdocs/a3-test/vt-uva.html in /home/ksharshe/a4/Server.php on line 1723
+
+Warning: filemtime(): stat failed for /home/ksharshe/a4/htdocs/a3-test/index.html in /home/ksharshe/a4/Server.php on line 91
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 693
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 693
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 693
+
+Warning: filesize(): stat failed for /home/ksharshe/a4/htdocs/a3-test/index.html in /home/ksharshe/a4/Server.php on line 1723
+
+Warning: filemtime(): stat failed for /home/ksharshe/a4/htdocs/a3-test/index.html.ja in /home/ksharshe/a4/Server.php on line 91
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 693
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 693
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 693
+
+Warning: filesize(): stat failed for /home/ksharshe/a4/htdocs/a3-test/index.html.ja in /home/ksharshe/a4/Server.php on line 1723
+
+Warning: filemtime(): stat failed for /home/ksharshe/a4/htdocs/a3-test/index.html in /home/ksharshe/a4/Server.php on line 91
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 693
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 693
+
+Warning: array_unique() expects parameter 1 to be array, null given in /home/ksharshe/a4/Server.php on line 693
+
+Warning: filesize(): stat failed for /home/ksharshe/a4/htdocs/a3-test/index.html in /home/ksharshe/a4/Server.php on line 1723
+
+Warning: filemtime(): stat failed for /home/ksharshe/a4/htdocs* in /home/ksharshe/a4/Server.php on line 91

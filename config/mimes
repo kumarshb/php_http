@@ -1,0 +1,14 @@
+### MIME TYPES
+.txt text/plain
+.htm text/html
+.html text/html
+.xml text/xml
+.png image/png
+.jpeg image/jpeg
+.jpg image/jpeg
+.gif image/gif
+.pdf application/pdf
+.ppt application/vnd.ms-powerpoint
+.pptx application/vnd.ms-powerpoint
+.doc application/vnd.ms-word
+.docx application/vnd.ms-word

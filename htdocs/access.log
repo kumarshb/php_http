@@ -1,0 +1,123 @@
+
+128.82.4.82 - - [10/Apr/2012:23:25:04 -0400] "HEAD /a4-test/ HTTP/1.1" 200 0 - -
+128.82.4.82 - - [11/Apr/2012:10:58:18 -0400] "GET http://mln-web.cs.odu.edu:7212/a4-test/limited1/protected HTTP/1.1" 401 24 - "CS 595-s12 A4 automated Checker"
+128.82.4.82 - mln [11/Apr/2012:10:58:18 -0400] "GET http://mln-web.cs.odu.edu:7212/a4-test/limited1/protected HTTP/1.1" 200 24 "http://mln-web.cs.odu.edu:7212/a4-test//index.html" "CS 595-s12 A4 automated Checker"
+128.82.4.82 - - [11/Apr/2012:10:58:18 -0400] "GET http://mln-web.cs.odu.edu:7212/a4-test/limited2/foo/bar.txt HTTP/1.1" 401 18 - "CS 595-s12 A4 automated Checker"
+128.82.4.82 - bda [11/Apr/2012:10:58:18 -0400] "GET http://mln-web.cs.odu.edu:7212/a4-test/limited1/1/protected2 HTTP/1.1" 200 29 - "CS 595-s12 A4 automated Checker"
+128.82.4.82 - - [11/Apr/2012:10:58:18 -0400] "GET http://mln-web.cs.odu.edu:7212/a4-test/limited2/foo/bar.txt HTTP/1.1" 401 18 - -
+128.82.4.82 - - [11/Apr/2012:10:58:18 -0400] "GET http://mln-web.cs.odu.edu:7212/a4-test/limited1/protected HTTP/1.1" 401 24 - "CS 595-s12 A4 automated Checker"
+128.82.4.82 - mln [11/Apr/2012:10:58:18 -0400] "GET http://mln-web.cs.odu.edu:7212/a4-test/limited2/foo/bar.txt HTTP/1.1" 200 18 - -
+128.82.4.82 - - [11/Apr/2012:10:58:18 -0400] "GET http://mln-web.cs.odu.edu:7212/a4-test/limited2/foo/bar.txt HTTP/1.1" 401 18 - -
+128.82.4.82 - - [11/Apr/2012:10:58:18 -0400] "GET /a4-test/limited1/1/protected2 HTTP/1.1" 401 29 - "CS 595-s12 A4 automated Checker"
+128.82.4.82 - mln [11/Apr/2012:10:58:18 -0400] "GET http://mln-web.cs.odu.edu:7212/a4-test/limited2/foo/bar.txt HTTP/1.1" 200 18 - -
+128.82.4.82 - - [11/Apr/2012:10:58:18 -0400] "HEAD http://mln-web.cs.odu.edu:7212/a4-test/limited2/foo/bar.txt HTTP/1.1" 401 18 - "CS 595-s12 A4 automated Checker"
+128.82.4.82 - - [11/Apr/2012:10:58:18 -0400] "OPTIONS http://mln-web.cs.odu.edu:7212/a4-test/limited2/foo/bar.txt HTTP/1.1" 401 18 - "CS 595-s12 A4 automated Checker"
+128.82.4.82 - - [11/Apr/2012:10:58:18 -0400] "GET http://mln-web.cs.odu.edu:7212/a4-test/limited1/protected HTTP/1.1" 400 24 - "CS 595-s12 A4 automated Checker"
+128.82.4.82 - bda [11/Apr/2012:10:58:18 -0400] "GET http://mln-web.cs.odu.edu:7212/a4-test/limited1/1/ HTTP/1.1" 200 0 - "CS 595-s12 A4 automated Checker"
+128.82.4.82 - mln [11/Apr/2012:10:58:18 -0400] "GET http://mln-web.cs.odu.edu:7212/a4-test/limited1/protected HTTP/1.1" 200 24 "http://mln-web.cs.odu.edu:7212/a4-test//index.html" "CS 595-s12 A4 automated Checker"
+128.82.4.82 - bda [11/Apr/2012:10:58:18 -0400] "HEAD http://mln-web.cs.odu.edu:7212/a4-test/limited1/protected HTTP/1.1" 416 24 - "CS 595-s12 A4 automated Checker"
+128.82.4.82 - - [11/Apr/2012:10:58:18 -0400] "HEAD http://mln-web.cs.odu.edu:7212/a4-test/index.html.de HTTP/1.1" 200 7316 - -
+128.82.4.82 - - [11/Apr/2012:10:58:18 -0400] "HEAD http://mln-web.cs.odu.edu:7212/a4-test/limited1/protected HTTP/1.1" 401 24 - "CS 595-s12 A4 automated Checker"
+128.82.4.82 - - [11/Apr/2012:10:58:18 -0400] "HEAD http://mln-web.cs.odu.edu:7212/a4-test/index.html.en HTTP/1.1" 200 7233 - -
+128.82.4.82 - - [11/Apr/2012:10:58:18 -0400] "HEAD http://mln-web.cs.odu.edu:7212/a4-test/index.html.ja.jis HTTP/1.1" 200 7635 - -
+128.82.4.82 - - [11/Apr/2012:10:58:18 -0400] "HEAD /a4-test/index.html.ru.koi8-r HTTP/1.1" 416 7277 - -
+128.82.5.177 - - [11/Apr/2012:17:02:21 -0400] "GET /a4-test/ HTTP/1.1" 200 0 - "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.142 Safari/535.19"
+128.82.5.177 - - [11/Apr/2012:17:02:21 -0400] "  HTTP/1.1" 408 0 - -
+128.82.5.177 - - [11/Apr/2012:17:03:02 -0400] "GET /a4-test/index.html.en HTTP/1.1" 200 7233 - "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.142 Safari/535.19"
+128.82.5.177 - - [11/Apr/2012:17:03:02 -0400] "  HTTP/1.1" 408 0 - -
+128.82.5.177 - - [11/Apr/2012:17:03:02 -0400] "GET /a4-test/style/css/manual.css HTTP/1.1" 404 0 "http://mln-web.cs.odu.edu:7212/a4-test/index.html.en" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.142 Safari/535.19"
+128.82.5.177 - - [11/Apr/2012:17:03:02 -0400] "  HTTP/1.1" 408 0 - -
+128.82.5.177 - - [11/Apr/2012:17:03:02 -0400] "  HTTP/1.1" 408 0 - -
+128.82.5.177 - - [11/Apr/2012:17:03:02 -0400] "GET /a4-test/style/css/manual-loose-100pc.css HTTP/1.1" 404 0 "http://mln-web.cs.odu.edu:7212/a4-test/index.html.en" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.142 Safari/535.19"
+128.82.5.177 - - [11/Apr/2012:17:03:02 -0400] "GET /a4-test/style/css/manual-print.css HTTP/1.1" 404 0 "http://mln-web.cs.odu.edu:7212/a4-test/index.html.en" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.142 Safari/535.19"
+128.82.5.177 - - [11/Apr/2012:17:03:02 -0400] "GET /a4-test/images/favicon.ico HTTP/1.1" 404 0 - "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.142 Safari/535.19"
+128.82.5.177 - - [11/Apr/2012:17:03:21 -0400] "GET /a4-test/index.html.de HTTP/1.1" 200 7316 - "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.142 Safari/535.19"
+128.82.5.177 - - [11/Apr/2012:17:03:21 -0400] "  HTTP/1.1" 408 0 - -
+128.82.5.177 - - [11/Apr/2012:17:03:21 -0400] "GET /a4-test/style/css/manual.css HTTP/1.1" 404 0 "http://mln-web.cs.odu.edu:7212/a4-test/index.html.de" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.142 Safari/535.19"
+128.82.5.177 - - [11/Apr/2012:17:03:21 -0400] "GET /a4-test/images/feather.gif HTTP/1.1" 404 0 "http://mln-web.cs.odu.edu:7212/a4-test/index.html.de" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.142 Safari/535.19"
+128.82.5.177 - - [11/Apr/2012:17:03:21 -0400] "  HTTP/1.1" 408 0 - -
+128.82.5.177 - - [11/Apr/2012:17:03:21 -0400] "GET /a4-test/images/left.gif HTTP/1.1" 404 0 "http://mln-web.cs.odu.edu:7212/a4-test/index.html.de" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.142 Safari/535.19"
+128.82.5.177 - - [11/Apr/2012:17:03:21 -0400] "GET /a4-test/style/css/manual-loose-100pc.css HTTP/1.1" 404 0 "http://mln-web.cs.odu.edu:7212/a4-test/index.html.de" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.142 Safari/535.19"
+128.82.5.177 - - [11/Apr/2012:17:03:21 -0400] "GET /a4-test/style/css/manual-print.css HTTP/1.1" 404 0 "http://mln-web.cs.odu.edu:7212/a4-test/index.html.de" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.142 Safari/535.19"
+128.82.5.177 - - [11/Apr/2012:17:03:21 -0400] "GET /a4-test/images/favicon.ico HTTP/1.1" 404 0 - "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.142 Safari/535.19"
+128.82.5.177 - - [11/Apr/2012:17:03:44 -0400] "GET /a4-test/limited1/protected HTTP/1.1" 401 24 - "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.142 Safari/535.19"
+128.82.5.177 - - [11/Apr/2012:17:03:44 -0400] "  HTTP/1.1" 408 0 - -
+128.82.5.177 - - [11/Apr/2012:17:03:44 -0400] "  HTTP/1.1" 408 0 - -
+128.82.5.177 - - [11/Apr/2012:17:03:44 -0400] "  HTTP/1.1" 408 0 - -
+128.82.5.177 - - [11/Apr/2012:17:03:44 -0400] "  HTTP/1.1" 408 0 - -
+128.82.5.177 - mln [11/Apr/2012:17:03:47 -0400] "GET /a4-test/limited1/protected HTTP/1.1" 200 24 - "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.142 Safari/535.19"
+128.82.5.177 - - [11/Apr/2012:17:03:47 -0400] "GET /favicon.ico HTTP/1.1" 404 0 - "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.142 Safari/535.19"
+128.82.4.82 - - [14/Apr/2012:15:54:27 -0400] "GET http://mln-web.cs.odu.edu:7212/a1-test/2/index.html HTTP/1.1" 200 1936 - -
+128.82.4.82 - - [14/Apr/2012:15:54:27 -0400] "HEAD http://mln-web.cs.odu.edu:7212/a1-test/2/index.html HTTP/1.1" 200 1936 - -
+128.82.4.82 - - [14/Apr/2012:15:54:27 -0400] "HEAD /a1-test/2/index.html HTTP/1.1" 200 1936 - -
+128.82.4.82 - - [14/Apr/2012:15:54:27 -0400] "OPTIONS /a1-test/2/index.html HTTP/1.1" 200 1936 - -
+128.82.4.82 - - [14/Apr/2012:15:54:27 -0400] "GET /a1-test/1/1.1/go%20hokies!.html HTTP/1.1" 200 55 - -
+128.82.4.82 - - [14/Apr/2012:15:54:27 -0400] "GET / HTTP/11.11" 505 0 - -
+128.82.4.82 - - [14/Apr/2012:15:54:27 -0400] "  HTTP/1.1" 400 0 - -
+128.82.4.82 - - [14/Apr/2012:15:54:27 -0400] "POST http://mln-web.cs.odu.edu:7212/a1-test/ HTTP/1.1" 501 0 - -
+128.82.4.82 - - [14/Apr/2012:15:54:27 -0400] "TRACE /a1-test/1/1.4/ HTTP/1.1" 200 0 - -
+128.82.4.82 - - [14/Apr/2012:15:54:27 -0400] "GET http://mln-web.cs.odu.edu:7212/a1-test/1/1.4/test%3A.html HTTP/1.1" 200 25 - -
+128.82.4.82 - - [14/Apr/2012:15:54:27 -0400] "GET http://mln-web.cs.odu.edu:7212/a1-test/2/0.jpeg HTTP/1.1" 200 38457 - -
+128.82.4.82 - - [14/Apr/2012:15:54:27 -0400] "GET http://mln-web.cs.odu.edu:7212/a1-test/2/0.jpeg.JPEG HTTP/1.1" 404 0 - -
+128.82.4.82 - - [14/Apr/2012:15:54:27 -0400] "GET http://mln-web.cs.odu.edu:7212/a1-test/4/thisfileisempty.txt HTTP/1.1" 200 0 - -
+128.82.4.82 - - [14/Apr/2012:15:54:27 -0400] "GET http://mln-web.cs.odu.edu:7212/a1-test/1/1.2/arXiv.org.Idenitfy.repsonse.xml HTTP/1.1" 200 3142 - -
+128.82.4.82 - - [14/Apr/2012:15:54:27 -0400] "GET /.well-known/access.log HTTP/1.1" 200 9301 - -
+128.82.4.82 - - [14/Apr/2012:15:54:27 -0400] "GET http://mln-web.cs.odu.edu:7212/a1-test/2/6.gif HTTP/1.1" 200 49803 - -
+128.82.4.82 - - [14/Apr/2012:15:54:27 -0400] "GET http://mln-web.cs.odu.edu:7212/a1-test/1/1.4/escape%25this.html HTTP/1.1" 200 67 - -
+128.82.4.82 - - [14/Apr/2012:15:54:27 -0400] "GET /a1-test//a1-test/2/index.html HTTP/1.1" 404 0 - -
+128.82.4.82 - - [14/Apr/2012:15:54:27 -0400] "GET /a1-test/ HTTP/1.1" 400 0 - -
+128.82.4.82 - - [14/Apr/2012:15:54:27 -0400] "GET http://mln-web.cs.odu.edu:7212/a1-test/4/directory3isempty HTTP/1.1" 200 0 - -
+128.82.4.82 - - [14/Apr/2012:15:55:34 -0400] "GET http://mln-web.cs.odu.edu:7212/a2-test/4/ HTTP/1.1" 200 0 - -
+128.82.4.82 - - [14/Apr/2012:15:55:49 -0400] "  HTTP/1.1" 408 0 - -
+128.82.4.82 - - [14/Apr/2012:15:55:49 -0400] "HEAD http://mln-web.cs.odu.edu:7212/a2-test/2/ HTTP/1.1" 200 1936 - -
+128.82.4.82 - - [14/Apr/2012:15:55:49 -0400] "HEAD /a2-test/1/1.2/go%20hokies!.html HTTP/1.1" 404 0 - -
+128.82.4.82 - - [14/Apr/2012:15:55:49 -0400] "TRACE /a2-test/1/1.2/arXiv.org.Idenitfy.repsonse.xml HTTP/1.1" 200 3142 - -
+128.82.4.82 - - [14/Apr/2012:15:55:49 -0400] "HEAD /a2-test/4/thisfileisempty.txt HTTP/1.1" 200 0 - -
+128.82.4.82 - - [14/Apr/2012:15:55:49 -0400] "GET /a2-test/2 HTTP/1.1" 301 0 - -
+128.82.4.82 - - [14/Apr/2012:15:55:49 -0400] "HEAD /a2-test/1/1.2/assignment1.ppt HTTP/1.1" 404 0 - -
+128.82.4.82 - - [14/Apr/2012:15:55:49 -0400] "GET http://mln-web.cs.odu.edu:7212/a2-test/ HTTP/1.1" 200 0 - -
+128.82.4.82 - - [14/Apr/2012:15:55:49 -0400] "HEAD http://mln-web.cs.odu.edu:7212/a2-test/ HTTP/1.1" 200 0 - -
+128.82.4.82 - - [14/Apr/2012:15:55:49 -0400] "HEAD http://mln-web.cs.odu.edu:7212/a2-test//2/fairlane.html HTTP/1.1" 200 1936 - -
+128.82.4.82 - - [14/Apr/2012:15:55:49 -0400] "HEAD /a2-test/2/fairlane.html HTTP/1.1" 200 1936 - -
+128.82.4.82 - - [14/Apr/2012:15:55:49 -0400] "HEAD /a2-test/2/index.html HTTP/1.1" 200 161 - -
+128.82.4.82 - - [14/Apr/2012:15:55:49 -0400] "HEAD /a2-test/4/thisfileisempty.txt HTTP/1.1" 200 0 - -
+128.82.4.82 - - [14/Apr/2012:15:55:49 -0400] "HEAD /a2-test/4/directory3isempty HTTP/1.1" 200 0 - -
+128.82.4.82 - - [14/Apr/2012:15:55:49 -0400] "HEAD /a2-test/2/fairlane.html HTTP/1.1" 200 1936 - -
+128.82.4.82 - - [14/Apr/2012:15:55:49 -0400] "HEAD /a2-test/2/fairlane.html HTTP/1.1" 200 1936 - -
+128.82.4.82 - - [14/Apr/2012:15:55:49 -0400] "HEAD /a2-test/2/ HTTP/1.1" 200 1936 - -
+128.82.4.82 - - [14/Apr/2012:15:55:49 -0400] "GET /a2-test/2/fairlane.html HTTP/1.1" 412 1936 - -
+128.82.4.82 - - [14/Apr/2012:15:55:49 -0400] "GET /a2-test/2/fairlane.html HTTP/1.1" 200 1936 - -
+128.82.4.82 - - [14/Apr/2012:15:55:49 -0400] "GET /a2-test/2/fairlane.html HTTP/1.1" 304 1936 - -
+128.82.4.82 - - [14/Apr/2012:15:55:49 -0400] "HEAD http://mln-web.cs.odu.edu:7212/a2-test/ HTTP/1.1" 200 0 - -
+128.82.4.82 - - [14/Apr/2012:15:55:49 -0400] "HEAD /a2-test/ HTTP/1.1" 200 0 - -
+128.82.4.82 - - [14/Apr/2012:16:23:54 -0400] "HEAD /test.html HTTP/1.1" 403 20 - -
+128.82.4.82 - - [14/Apr/2012:16:24:09 -0400] "HEAD /a2-test/ HTTP/1.1" 200 0 - -
+128.82.4.82 - - [14/Apr/2012:16:24:27 -0400] "GET /test.html HTTP/1.1" 403 20 - -
+128.82.4.82 - - [14/Apr/2012:16:34:27 -0400] "GET http://mln-web.cs.odu.edu:7212/a3-test/fairlane.txt HTTP/1.1" 200 193 - "CS 595-S12 A3 automated Checker"
+128.82.4.82 - - [14/Apr/2012:16:34:27 -0400] "GET http://mln-web.cs.odu.edu:7212/a3-test/index.html.es HTTP/1.1" 416 7643 "http://mln-web.cs.odu.edu:7212/a3-test/index.html" "CS 595-S12 A3 automated Checker"
+128.82.4.82 - - [14/Apr/2012:16:34:27 -0400] "GET /a3-test/index.htmll HTTP/1.1" 404 0 - "CS 595-S12 A3 automated Checker"
+128.82.4.82 - - [14/Apr/2012:16:34:27 -0400] "HEAD /a3-test/fairlane.gif HTTP/1.1" 200 49803 - -
+128.82.4.82 - - [14/Apr/2012:16:34:27 -0400] "HEAD /a3-test/fairlane.gif HTTP/1.1" 206 49803 - -
+128.82.4.82 - - [14/Apr/2012:16:34:27 -0400] "HEAD /a3-test/index.html.ko.euc-kr HTTP/1.1" 300 0 - -
+128.82.4.82 - - [14/Apr/2012:16:34:27 -0400] "GET /a3-test/fairlane HTTP/1.1" 300 0 - -
+128.82.4.82 - - [14/Apr/2012:16:34:27 -0400] "HEAD /a3-test/fairlane HTTP/1.1" 200 98203 - "CS 595-S12 A3 automated Checker"
+128.82.4.82 - - [14/Apr/2012:16:34:27 -0400] "GET /a3-test/index.html.ru.koi8-r HTTP/1.1" 200 7277 - "CS 595-S12 A3 automated Checker"
+128.82.4.82 - - [14/Apr/2012:16:34:27 -0400] "HEAD /a3-test/fairlane HTTP/1.1" 200 193 - "CS 595-S12 A3 automated Checker"
+128.82.4.82 - - [14/Apr/2012:16:34:27 -0400] "HEAD /a3-test/vt-uva.html HTTP/1.1" 406 0 - -
+128.82.4.82 - - [14/Apr/2012:16:34:27 -0400] "HEAD /a3-test/vt-uva.html.Z HTTP/1.1" 200 23563 - -
+128.82.4.82 - - [14/Apr/2012:16:34:27 -0400] "HEAD /a3-test/index.html HTTP/1.1" 300 0 - -
+128.82.4.82 - - [14/Apr/2012:16:34:27 -0400] "HEAD /a3-test/index.html.ja HTTP/1.1" 406 0 - -
+128.82.4.82 - - [14/Apr/2012:16:34:27 -0400] "GET /a3-test/fairlane.txt HTTP/1.1" 206 193 - -
+128.82.4.82 - - [14/Apr/2012:16:34:27 -0400] "GET /a3-test/fairlane.txt HTTP/1.1" 412 193 - -
+128.82.4.82 - - [14/Apr/2012:16:34:27 -0400] "GET /a3-test/index.html.ru.koi8-r HTTP/1.1" 200 7277 - -
+128.82.4.82 - - [14/Apr/2012:16:34:27 -0400] "HEAD http://mln-web.cs.odu.edu:7212/a3-test/index.html.en HTTP/1.1" 206 7233 - -
+128.82.4.82 - - [14/Apr/2012:16:34:27 -0400] "HEAD http://mln-web.cs.odu.edu:7212/a3-test/index.html HTTP/1.1" 300 0 - -
+128.82.4.82 - - [14/Apr/2012:16:34:27 -0400] "HEAD http://mln-web.cs.odu.edu:7212/a3-test/index.html.ja.jis HTTP/1.1" 200 7635 - -
+128.82.4.82 - - [14/Apr/2012:16:40:54 -0400] "GET /test.html HTTP/1.1" 403 20 - -
+128.82.4.82 - - [14/Apr/2012:16:41:13 -0400] "HEAD http://mln-web.cs.odu.edu:7212/a2-test/ HTTP/1.1" 200 0 - -
+128.82.4.82 - - [14/Apr/2012:16:41:13 -0400] "HEAD /a2-test/ HTTP/1.1" 200 0 - -
+128.82.4.82 - - [22/Apr/2012:21:00:59 -0400] "HEAD http://mln-web.cs.odu.edu:7212/a3-test/fairlane HTTP/1.1" 406 0 "index.php" "Mozilla Firefox"
+128.82.4.82 - - [22/Apr/2012:21:02:37 -0400] "HEAD http://mln-web.cs.odu.edu:7212/a3-test/fairlane HTTP/1.1" 406 0 "index.php" "Mozilla Firefox"
+128.82.4.82 - - [22/Apr/2012:21:13:27 -0400] "HEAD http://mln-web.cs.odu.edu:7212/a3-test/fairlane HTTP/1.1" 406 0 "index.php" "Mozilla Firefox"
+128.82.4.82 - - [22/Apr/2012:21:28:11 -0400] "HEAD http://mln-web.cs.odu.edu:7212/a3-test/fairlane HTTP/1.1" 406 0 "index.php" "Mozilla Firefox"
+128.82.4.82 - - [22/Apr/2012:22:50:09 -0400] "HEAD http://mln-web.cs.odu.edu:7212/a3-test/fairlane HTTP/1.1" 406 0 "index.php" "Mozilla Firefox"
